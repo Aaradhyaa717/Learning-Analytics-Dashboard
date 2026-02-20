@@ -43,4 +43,4 @@ R · tidyverse · ggplot2 · Shiny · shinydashboard · scales
 
 ## Author
 
-Aaradhyaa Gyawali · INFO 4100 Learning Analytics
+Aaradhyaa Gyawali 
