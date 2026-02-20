@@ -4,10 +4,7 @@ An interactive R Shiny dashboard for exploring iClicker and quiz data from a Cor
 
 ## Demo
 
-<video src="https://github.com/Aaradhyaa717/Learning-Analytics-Dashboard/raw/refs/heads/main/projectDemo.mov" controls width="100%">
-  Your browser does not support the video tag.
-</video>
-
+[![Demo Video](https://img.youtube.com/vi/QXn3rLqMKp0/0.jpg)](https://youtu.be/QXn3rLqMKp0)
 ---
 
 ## Overview
