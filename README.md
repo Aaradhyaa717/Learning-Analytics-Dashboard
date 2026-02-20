@@ -4,7 +4,9 @@ An interactive R Shiny dashboard for exploring iClicker and quiz data from a Cor
 
 ## Demo
 
-> 📹 **[Video demo placeholder — insert link here]**
+<video src="projectDemo.mov" controls width="100%">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
